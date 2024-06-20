@@ -1,0 +1,6 @@
+*.pyc
+#*.h5
+#*.png
+#*.json
+*/saved_results/**
+!channels/models/*
